@@ -33,7 +33,7 @@ Contains tables: `customers`, `orders`, `order_items`, `products`.
 
 ### 🧠 Author
 **Mohd. Wasifullah Nasim**  
-Connect on [LinkedIn](www.linkedin.com/in/wasifnasim)
+Connect on (www.linkedin.com/in/wasifnasim)
 
 ---
 *This project was created purely for learning and portfolio purposes.*
