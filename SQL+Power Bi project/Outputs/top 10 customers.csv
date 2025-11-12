@@ -1,0 +1,11 @@
+name,city,customer_id,total_spend,orders
+Customer_33,Pune,33,12007,9
+Customer_49,Chennai,49,7441,7
+Customer_32,Pune,32,7423,7
+Customer_48,Chennai,48,7050,6
+Customer_20,Pune,20,6025,5
+Customer_3,Delhi,3,5874,6
+Customer_24,Chennai,24,5849,5
+Customer_39,Delhi,39,5395,4
+Customer_11,Bangalore,11,5352,5
+Customer_16,Hyderabad,16,5322,5
